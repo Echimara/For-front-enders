@@ -1,0 +1,2 @@
+The Odin Project on writing good commit messages: https://www.theodinproject.com/lessons/foundations-commit-messages 
+Note to self: Good commit messages are very important. 
