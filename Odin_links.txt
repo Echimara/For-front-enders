@@ -1,5 +1,0 @@
-The Odin Project on writing good commit messages: https://www.theodinproject.com/lessons/foundations-commit-messages 
-Note to self: Good commit messages are very important. 
-
-https://www.conventionalcommits.org/en/v1.0.0/ - for commit conventions 
-https://www.ietf.org/rfc/rfc2119.txt - the RFC2119, for spec conventions
