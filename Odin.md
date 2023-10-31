@@ -5,3 +5,6 @@ https://www.ietf.org/rfc/rfc2119.txt - the RFC2119, for spec conventions<br>
 Note to self: <br>
 Good commit messages are very important. <br>
 IN ```git -m```, use an active voice: “**Fix** card generator” 
+
+Common commit message format: 
+![Screenshot (439)](https://github.com/Echimara/For-front-enders/assets/123244902/c926d07b-44cd-45df-b0e3-62c27a457ffc)
